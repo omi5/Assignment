@@ -33,6 +33,11 @@ h2
     background-position: center;
     
 }
+.section-background
+{
+    background-image: url("footer-bg.png");
+    background-repeat: no-repeat;
+}
 
 
 .half-width
