@@ -1,0 +1,115 @@
+body
+{
+    margin: 0;
+    font-family: 'Lato', sans-serif;
+
+}
+h2
+{
+    font-size: 50px;
+}
+.text-highlight
+{
+    color: lightcoral;
+    font-size: 50px;
+}
+.header-background
+{
+    background-image: url("header-bg.png");
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.Biography-background
+{
+    background-image: url("biography-bg.png");
+    background-repeat: no-repeat;
+     
+}
+.latest-background
+{
+    background-image: url("latest-work-bg.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    
+}
+.footer-background
+{
+    background-image: url("footer-bg.png");
+    background-repeat: no-repeat;
+     
+}
+.half-width
+{
+    width: 35%;
+    float: left;
+    margin: 4%;
+    padding: 2%;
+}
+.half-width img
+{
+    width: 100%;
+}
+section
+{
+    height: 500px;
+    padding: 120px;
+}
+.anchor-design
+{
+    text-decoration: none;
+    background-color: lightsalmon;
+    color:white;
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-weight: 600;
+    background-image: linear-gradient(45deg, lightsalmon tomato);
+
+}
+.image-width
+{
+    width:20%;
+    float: left;
+    margin: 3%;
+    padding: 2%;
+}
+.image-width img
+{
+    width: 100%;
+}
+#text-center
+{
+    text-align: center;
+}
+#h2-center
+{
+    text-align: center;
+}
+#font-change
+{
+    font-weight: 200px;
+}
+#text-size
+{
+    font-size: 20px;
+    font-family:monospace;
+}
+.div-design
+{
+    text-decoration: none;
+    height: 15%;
+    width: 25%;
+    text-align: center;
+    border:1px solid black;
+    background-color: lightsalmon;
+    color:white;
+    border-radius: 5px;
+    padding: 10px ;
+   position: absolute;
+   left: 37%;
+    background-image: linear-gradient(180deg, lightsalmon tomato);
+}
+footer p
+{
+    text-align: center;
+}
+ 
